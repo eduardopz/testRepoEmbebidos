@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:configuration="http://www.eclipse.org/papyrus/infra/viewpoints/configuration" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/viewpoints/policy/style" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_tz2Z8L3ZEeelgP78FK47tQ" type="PapyrusUMLClassDiagram" name="SysML 1.4 Block Definition" measurementUnit="Pixel">
+  <styles xmi:type="notation:StringValueStyle" xmi:id="_tz2Z8b3ZEeelgP78FK47tQ" name="diagram_compatibility_version" stringValue="1.2.0"/>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_tz2Z8r3ZEeelgP78FK47tQ"/>
+  <styles xmi:type="style:PapyrusViewStyle" xmi:id="_tz2Z873ZEeelgP78FK47tQ">
+    <owner xmi:type="uml:Model" href="model.uml#_ttrggL3ZEeelgP78FK47tQ"/>
+    <configuration xmi:type="configuration:PapyrusDiagram" href="platform:/plugin/org.eclipse.papyrus.sysml14.diagram.blockdefinition/resources/configuration/blockDefinitionDiagram.configuration#_ZrBf4JaBEeS8eNvSwD0lgA"/>
+  </styles>
+  <element xmi:type="uml:Model" href="model.uml#_ttrggL3ZEeelgP78FK47tQ"/>
+</notation:Diagram>
