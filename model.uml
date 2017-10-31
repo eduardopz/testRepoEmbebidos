@@ -6,6 +6,7 @@
   <packageImport xmi:type="uml:PackageImport" xmi:id="_tyl1sL3ZEeelgP78FK47tQ">
     <importedPackage xmi:type="uml:Package" href="pathmap://SysML14_LIBRARIES/SysML-Standard-Library.uml#SysML.package_packagedElement_Libraries"/>
   </packageImport>
+  <packagedElement xmi:type="uml:Actor" xmi:id="_eqe8ML3bEeelgP78FK47tQ" name="Actor1"/>
   <profileApplication xmi:type="uml:ProfileApplication" xmi:id="_tutbQL3ZEeelgP78FK47tQ">
     <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_tuv3gL3ZEeelgP78FK47tQ" source="http://www.eclipse.org/uml2/2.0.0/UML">
       <references xmi:type="ecore:EPackage" href="http://www.eclipse.org/papyrus/sysml/1.4/SysML#/"/>
